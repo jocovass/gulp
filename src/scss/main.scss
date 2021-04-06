@@ -1,0 +1,11 @@
+@import "vendors/bootstrap";
+
+body {
+  background-color: red;
+  display: flex;
+  display: flex;
+  shape-outside: polygon(12, 12, 12);
+  .title {
+    font-size: 10px;
+  }
+}
